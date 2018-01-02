@@ -5,3 +5,4 @@ reset
 test dev branch
 add in dev1
 Creating a new branch is quick and simple
+branch dev
