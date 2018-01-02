@@ -4,4 +4,4 @@ Git tracks modigy  very good
 reset
 test dev branch
 add in dev1
-creating a new branch is quick & simple
+creating a new branch is quick and simple
