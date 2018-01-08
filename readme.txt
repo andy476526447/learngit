@@ -12,3 +12,4 @@ test tag
 test reset
 test modify -brance
 test --reedit commit
+test diff
