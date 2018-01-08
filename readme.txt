@@ -11,3 +11,4 @@ branch dev5
 test tag
 test reset
 test modify -brance
+test --reedit commit
